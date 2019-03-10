@@ -1,0 +1,9 @@
+hello/wsdl/FahrenheitToCelsius.class
+hello/wsdl/FahrenheitToCelsiusResponse.class
+hello/wsdl/package-info.class
+hello/wsdl/CelsiusToFahrenheit.class
+hello/HelloController.class
+hello/wsdl/ObjectFactory.class
+hello/Application.class
+hello/TestConstants.class
+hello/wsdl/CelsiusToFahrenheitResponse.class
